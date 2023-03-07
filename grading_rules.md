@@ -7,4 +7,4 @@
 </br>*8 points --> 4.0*
 </br>*9 points --> 4.5*
 </br>*10 points --> 5.0*
-Points are rounded to the nearest whole number (e.g. 8.5 to 9 points)
+5. Points are rounded to the nearest whole number (e.g. 8.5 to 9 points)
